@@ -1,5 +1,7 @@
 language: ruby
 
+dist: xenial
+
 import:
   - travis-ci/build-configs:db-setup.yml
 
